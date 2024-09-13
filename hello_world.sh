@@ -1,16 +1,4 @@
-! /bin/bash
-
-
-# this is our first script
-
-
-echo 'hello world!'
-
-# print the  
-
-echo ' jnfjknjknjnjdk'
-
-
-ls 
-
-
+#!/bin/bash
+# This is our first script.
+echo 'Hello World!'
+# 
