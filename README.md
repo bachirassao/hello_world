@@ -1,7 +1,7 @@
 # hello_world
 Repo for TLCL Hello world script
 
-This repo will be use to:
+## This repo will be use to:
 * Learn about git
 * Test connecting to hypergator
 * More
